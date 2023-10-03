@@ -1,3 +1,7 @@
+Copied from https://github.com/Motophan/carrierabuse, reformatted with ChatGPT. 
+
+If you'd like to add/update, create a pull request. Stick to the format.
+
 Carrier Name | Abuse Reporting Method | Emails | Web Forms | Calls | Additional Notes
 --- | --- | --- | --- | --- | ---
 382 Communications | Email | abuse@382com.com, support@382com.com |  |  | 
