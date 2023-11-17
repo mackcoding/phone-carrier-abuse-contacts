@@ -87,6 +87,7 @@ Telengy L.L.C | Email | info@telengy.net, lnp@telengy.net, noc@telengy.net, lega
 Teleport Communications America | Email | info@teleportone.com, abuse@teleportone.com, support@teleportone.com |  |  | 
 Teli Communications | Email | support@teli.net, sales@teli.net, abuse@teli.net |  |  | 
 Telnyx | Email | support@telnyx.com |  |  | 
+Telzio | Email | abuse@telzio.com, support@telzio.com |  |  | 
 Terra Nova Telecom |  |  |  |  | 
 TextNow | Email, Web | support@mybwc.zendesk.com | Form: https://www.bandwidth.com/legal/report-a-phone-number/ Notes: ignore whatever they autosend back and respond/restate your claim. Humans dont see the tickets until the 3rd or fourth reply. These guys run most scam calls, these are the scammers default network. |  | 
 TextPlus | Email | support@textplus.com, lawenforcement@textplusteam.com, abuse@textplus.com, bishop@textplus.com Notes: do not email lawenforcement without a preface that you want to help enforce the laws but are NOT a member of law enforcement. (unless you are, and please contact me I want to talk to you about autofiling scam calls and can setup software to do it) |  |  | 
